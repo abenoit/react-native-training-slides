@@ -38,6 +38,11 @@ export const Resources = () => (
           </ListItem>
           <ListItem>
             <b>
+              <a hreh="https://reactjs.org">React</a>
+            </b>
+          </ListItem>
+          <ListItem>
+            <b>
               <a hreh="https://github.com/jondot/awesome-react-native">
                 Awesome list
               </a>
