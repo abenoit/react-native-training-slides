@@ -22,3 +22,5 @@ This is a Deck containing information related to a training about React Native. 
    # Or with a specific port!
    $ yarn start --port=3000
    ```
+
+3. Once server is running, a presenter mode is available by appending `?presenterMode=true` to the url
